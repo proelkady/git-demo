@@ -1,11 +1,1 @@
-Test git quick start demo
-another text to test
-this is an append
-appen
-appen n and
-line 1
-line 2
-line 3 
-line 4
-line 5
-add
+replace2
