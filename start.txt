@@ -1,5 +1,4 @@
 this is local change
-
+another local change
 this to conflict
-This is a change
-remote change
+This is a changeremote change
