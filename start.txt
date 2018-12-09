@@ -1,3 +1,9 @@
+replace2
+add
+add2
+add4
+add3
+add
 this is local change
 another local change
 this to conflict
