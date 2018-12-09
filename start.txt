@@ -7,3 +7,4 @@ stash 2
 branch
 tag
 master change
+toConflict
