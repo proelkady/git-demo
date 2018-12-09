@@ -6,3 +6,4 @@ some imporvments
 stash 2
 branch
 tag
+toConflict
